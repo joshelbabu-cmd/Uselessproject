@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Mouse Therapist</title>
+
+
+    <style>
+
+        body {
+
+            width: 300px;
+
+            padding: 20px;
+
+            font-family: Arial, sans-serif;
+
+            background: #111827;
+
+            color: white;
+
+            text-align: center;
+
+        }
+
+
+        h2 {
+
+            margin-bottom: 5px;
+
+        }
+
+
+        p {
+
+            color: #9ca3af;
+
+        }
+
+
+        button {
+
+            width: 100%;
+
+            padding: 12px;
+
+            margin-top: 15px;
+
+            border: none;
+
+            border-radius: 8px;
+
+            background: #6366f1;
+
+            color: white;
+
+            font-size: 16px;
+
+            cursor: pointer;
+
+        }
+
+
+        button:hover {
+
+            transform: scale(1.03);
+
+        }
+
+
+        .stats {
+
+            margin-top: 20px;
+
+            padding: 15px;
+
+            background: #1f2937;
+
+            border-radius: 10px;
+
+        }
+
+
+        .stats div {
+
+            margin: 8px 0;
+
+        }
+
+
+        strong {
+
+            color: #a5b4fc;
+
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+
+    <h2>
+        🧠 Mouse Therapist
+    </h2>
+
+
+    <p id="status">
+        Therapy is currently OFF
+    </p>
+
+
+    <button id="toggleBtn">
+        Start Therapy
+    </button>
+
+
+    <div class="stats">
+
+        <div>
+
+            🖱️ Distance:
+
+            <strong id="distance">
+                0 px
+            </strong>
+
+        </div>
+
+
+        <div>
+
+            🖱️ Clicks:
+
+            <strong id="clicks">
+                0
+            </strong>
+
+        </div>
+
+    </div>
+
+
+    <button id="dashboardBtn">
+        🧠 Open Full Dashboard
+    </button>
+
+
+    <script src="popup.js"></script>
+
+</body>
+
+</html>

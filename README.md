@@ -2,64 +2,59 @@
 
 
 
-# [Project Name] 🎯
+# Mouse Movement Therapist 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Builders
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Joshel Babu - Sahrdaya College of Engineering And Technology, Kodakara
+- Member 2: Jovit Anto J Maliakal - Sahrdaya College of Engineering And Technology, Kodakara
 
 ### Project Description
-[2-3 lines about what your project does]
+What if your mouse had a personality and could judge you for how you use it? Mouse Movement Therapist analyzes clicks, speed, distance, and movement patterns to expose your cursor personality, chaos level, and unlock ridiculous achievements.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Mouse Movement Therapist solves the completely unnecessary problem of understanding your cursor's emotional and behavioral issues by analyzing its movements, clicks, speed, and chaos level.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+It transforms ordinary mouse activity into a real-time behavioral diagnosis by tracking clicks, speed, distance, and direction changes to calculate a Cursor Chaos Score and personality. Instead of solving a serious problem, it turns an overlooked everyday interaction into an interactive, hilarious, and surprisingly data-driven experience.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML, CSS, and JavaScriptnow
+- VS Code, Google Chrome, Git, and GitHub
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- None (software-only project)
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+No installation required.
 
 # Run
-[commands]
+Open `index.html` in Google Chrome, or run the project using VS Code's Live Server extension.
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 1](screenshot-1)
+*Main Mouse Movement Therapist interface.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2](screenshot-2.png)
+*Cursor activity statistics and therapy dashboard.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 3](screenshot-3.png)
+*Cursor personality and chaos analysis results.*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow](workflow.png)
+*Workflow from mouse activity tracking to cursor personality analysis.*
 
 For Hardware:
 
@@ -82,16 +77,15 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+None
+*No demo video available.*
 
 # Additional Demos
-[Add any extra demo materials/links]
+None
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Joshel Babu: Coding and searching for ideas
+- Jovit Anto J Maliakal: Documentation
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

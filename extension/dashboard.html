@@ -14,7 +14,7 @@
 
     <link
         rel="stylesheet"
-        href="style.css"
+        href="dashboard.css"
     >
 
 </head>
@@ -29,22 +29,13 @@
              HEADER
         ====================================== -->
 
-        <header class="hero">
+        <h1>
+            🧠 Mouse Movement Therapist
+        </h1>
 
-            <div class="hero-badge">
-                🧠 COMPLETELY UNNECESSARY THERAPY
-            </div>
-
-            <h1>
-                Mouse Movement Therapist
-            </h1>
-
-            <p class="subtitle">
-                Your cursor has problems.
-                We can fix that.
-            </p>
-
-        </header>
+        <p class="subtitle">
+            Your cursor has problems. We can fix that.
+        </p>
 
 
         <!-- =====================================
@@ -61,16 +52,14 @@
             <div class="dashboard-area">
 
 
-                <!-- STATUS -->
-
                 <div id="status">
                     😴 Therapy is currently inactive.
                 </div>
 
 
-                <!-- =================================
+                <!-- =============================
                      STATISTICS
-                ================================== -->
+                ============================== -->
 
                 <section class="dashboard">
 
@@ -223,45 +212,18 @@
                 </section>
 
 
-                <!-- =================================
-                     THERAPY CONTROL
-                ================================== -->
-
-                <section class="control-panel">
-
-                    <button
-                        id="therapyBtn"
-                        class="primary-button"
-                    >
-                        🧠 Start Therapy
-                    </button>
-
-
-                    <button
-                        id="resetBtn"
-                        class="secondary-button"
-                    >
-                        🔄 Reset Session
-                    </button>
-
-                </section>
-
-
-                <!-- =================================
+                <!-- =============================
                      ANALYZE BUTTON
-                ================================== -->
+                ============================== -->
 
-                <button
-                    id="analyzeBtn"
-                    class="analyze-button"
-                >
+                <button id="analyzeBtn">
                     🧠 Analyze My Cursor
                 </button>
 
 
-                <!-- =================================
+                <!-- =============================
                      THERAPIST NOTES
-                ================================== -->
+                ============================== -->
 
                 <section class="therapist-box">
 
@@ -486,7 +448,7 @@
                 </div>
 
 
-                <!-- Speech Bubble -->
+                <!-- Speech bubble -->
 
                 <div
                     id="speechBubble"
@@ -504,9 +466,7 @@
                 >
 
 
-                    <!-- =========================
-                         HEAD
-                    ========================== -->
+                    <!-- Head -->
 
                     <div class="character-head">
 
@@ -564,17 +524,19 @@
                     </div>
 
 
-                    <!-- =========================
-                         BODY
-                    ========================== -->
+                    <!-- Body -->
 
                     <div class="character-body">
 
+
+                        <!-- Arms -->
 
                         <div class="arm left-arm"></div>
 
                         <div class="arm right-arm"></div>
 
+
+                        <!-- Shirt -->
 
                         <div class="shirt">
 
@@ -588,9 +550,7 @@
                     </div>
 
 
-                    <!-- =========================
-                         DESK
-                    ========================== -->
+                    <!-- Desk -->
 
                     <div class="character-desk">
 
@@ -607,8 +567,6 @@
 
                 </div>
 
-
-                <!-- Character Status -->
 
                 <div
                     id="characterStatus"
@@ -668,28 +626,10 @@
         </section>
 
 
-        <!-- =====================================
-             FOOTER
-        ====================================== -->
-
-        <footer class="footer">
-
-            <p>
-                🧠 Mouse Movement Therapist
-            </p>
-
-            <span>
-                A completely unnecessary analysis
-                of completely necessary mouse movements.
-            </span>
-
-        </footer>
-
-
     </main>
 
 
-    <script src="script.js"></script>
+    <script src="dashboard.js"></script>
 
 </body>
 
