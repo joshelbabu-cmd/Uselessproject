@@ -43,7 +43,7 @@ Open `index.html` in Google Chrome, or run the project using VS Code's Live Serv
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot 1](screenshot-1)
+![Screenshot 1](screenshot-1.png)
 *Main Mouse Movement Therapist interface.*
 
 ![Screenshot 2](screenshot-2.png)
@@ -76,8 +76,6 @@ For Hardware:
 *Explain the final build*
 
 ### Project Demo
-# Video
-None
 *No demo video available.*
 
 # Additional Demos
