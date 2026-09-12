@@ -56,31 +56,6 @@ For Software:
 ![Workflow](workflow.png)
 *Workflow from mouse activity tracking to cursor personality analysis.*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-*No demo video available.*
-
-# Additional Demos
-None
-
 ## Team Contributions
 - Joshel Babu: Coding and searching for ideas
 - Jovit Anto J Maliakal: Documentation
